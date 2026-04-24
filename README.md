@@ -25,7 +25,7 @@ This project is built on the **IDEAL** architecture, a modular standard for auto
 
 ---
 
-## 📅 6-Month Strategic Roadmap (The Book Chapters)
+## 📅 Strategic Roadmap (The Book Chapters)
 
 | Chapter | Module Name | Status | YouTube Deep Dive |
 | :--- | :--- | :--- | :--- |
